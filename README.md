@@ -1,4 +1,4 @@
-# Music Player Application
+# Song Playlist App
 
 ## Contents:
 - `Album.java`: This class represents an album containing songs. It provides methods to add songs to the album, find a song by title, and add songs to a playlist.
