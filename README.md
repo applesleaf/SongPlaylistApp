@@ -42,3 +42,6 @@ Please ensure you have Java Development Kit (JDK) installed on your system to ru
 
 - **Iterators**: Iterators are used to traverse through collections. In the `play` method of the `Main` class, a `ListIterator` is used to iterate through the playlist and control song playback.
 
+  
+
+![Screenshot 2024-03-28 050048](https://github.com/applesleaf/SongPlaylistApp/assets/126444266/8fe77811-afa9-43b4-ad71-d077eeca97e0)
